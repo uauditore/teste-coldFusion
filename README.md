@@ -25,7 +25,7 @@ Esta aplicação permite ao usuário selecionar um artista de uma lista, atribui
 
 - **Banco de Dados**: Este projeto atualmente não inclui integração com um banco de dados (Graças ao fato do Mysql permitir apenas com licença).
 
-Se você tiver alguma dúvida, sugestão ou feedback, por favor, não hesite em entrar em contato. Estou à disposição para ajudar!
+Se você tiver alguma dúvida, sugestão ou feedback, por favor, não hesite em entrar em contato. Dito tudo isso, aguardo retorno (que vai ser positivo!!) do processo seletivo.
 
 **Felipe Auditore**  
 fauditore2912@gmail.com
